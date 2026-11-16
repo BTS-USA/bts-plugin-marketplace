@@ -1,21 +1,19 @@
 {
-  "name": "logo-design-skill",
+  "name": "bts-plugin-marketplace",
   "owner": {
-    "name": "kaankiziltug",
-    "url": "https://github.com/kaankiziltug"
+    "name": "BTS",
+    "url": "https://github.com/BTS-USA"
   },
   "metadata": {
-    "description": "A comprehensive logo-design skill for Claude: principles, process, SVG craft, testing tools and a 1,400+ logo reference library.",
-    "version": "1.4.5"
+    "description": "Plugins and skills for BTS teams that build with Claude Code and other AI agents."
   },
   "plugins": [
     {
-      "name": "logo-design",
-      "source": "./",
-      "description": "Design, critique and deliver professional logos: brief, concepts, geometric SVG construction, optical refinement, colour, typography, testing, presentation and brand guidelines — with a searchable library of 1,400+ classified SVG logos.",
-      "version": "1.4.5",
+      "name": "bts-design",
+      "source": "./plugins/bts-design",
+      "description": "Design skills for BTS work: logo and identity design, website art direction, and image references for web and mobile screens.",
       "category": "design",
-      "keywords": ["logo", "branding", "identity", "svg", "design", "wordmark", "icon"]
+      "keywords": ["design", "logo", "branding", "frontend", "websites", "image-generation"]
     }
   ]
 }
