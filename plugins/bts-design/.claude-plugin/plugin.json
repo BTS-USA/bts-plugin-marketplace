@@ -1,0 +1,11 @@
+{
+  "name": "bts-design",
+  "description": "Design skills for BTS work: logo and identity design, website art direction, and image references for web and mobile screens.",
+  "author": {
+    "name": "BTS",
+    "url": "https://github.com/BTS-USA"
+  },
+  "homepage": "https://github.com/BTS-USA/bts-plugin-marketplace",
+  "repository": "https://github.com/BTS-USA/bts-plugin-marketplace",
+  "keywords": ["design", "logo", "branding", "frontend", "websites", "image-generation"]
+}

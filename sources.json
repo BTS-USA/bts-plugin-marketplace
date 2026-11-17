@@ -1,0 +1,106 @@
+{
+  "brandkit": {
+    "plugin": "bts-design",
+    "repo": "https://github.com/nexu-io/open-design",
+    "path": "skills/brandkit",
+    "ref": "main",
+    "sha": "59e4f2ae85de7e7318a5e6bdcf3a34584c4b7582",
+    "tree": "b0e36af94ab0c25d56c262fab0ad32a2684fc232"
+  },
+  "emil-design-eng": {
+    "plugin": "bts-design",
+    "repo": "https://github.com/nexu-io/open-design",
+    "path": "skills/emil-design-eng",
+    "ref": "main",
+    "sha": "59e4f2ae85de7e7318a5e6bdcf3a34584c4b7582",
+    "tree": "fc778dd90d68b82c0f67bbad6cc3bf6de6e9aa99"
+  },
+  "image-to-code-skill": {
+    "plugin": "bts-design",
+    "repo": "https://github.com/nexu-io/open-design",
+    "path": "skills/image-to-code-skill",
+    "ref": "main",
+    "sha": "59e4f2ae85de7e7318a5e6bdcf3a34584c4b7582",
+    "tree": "9183a4baa1a889eb148c89794d2aa0d34209c148"
+  },
+  "imagegen-frontend-mobile": {
+    "plugin": "bts-design",
+    "repo": "https://github.com/nexu-io/open-design",
+    "path": "skills/imagegen-frontend-mobile",
+    "ref": "main",
+    "sha": "59e4f2ae85de7e7318a5e6bdcf3a34584c4b7582",
+    "tree": "273827ca93f58a81abd4b5a8d6fc1a20fd8f8a20"
+  },
+  "imagegen-frontend-web": {
+    "plugin": "bts-design",
+    "repo": "https://github.com/nexu-io/open-design",
+    "path": "skills/imagegen-frontend-web",
+    "ref": "main",
+    "sha": "59e4f2ae85de7e7318a5e6bdcf3a34584c4b7582",
+    "tree": "b2cd1be8a9209c6674a3c35466e75ad1279ed74c"
+  },
+  "logo-design": {
+    "plugin": "bts-design",
+    "repo": "https://github.com/kaankiziltug/logo-design-skill",
+    "path": "skills/logo-design",
+    "ref": "main",
+    "sha": "e9eaddc07895575253d6663320354a708f53e955",
+    "tree": "2dd533534bfc91c47fac216b463df75ee8788d74"
+  },
+  "pptx-html-fidelity-audit": {
+    "plugin": "bts-design",
+    "repo": "https://github.com/nexu-io/open-design",
+    "path": "skills/pptx-html-fidelity-audit",
+    "ref": "main",
+    "sha": "59e4f2ae85de7e7318a5e6bdcf3a34584c4b7582",
+    "tree": "4f86126b8344cd19c4111e092e53de1bd922e963"
+  },
+  "redesign-skill": {
+    "plugin": "bts-design",
+    "repo": "https://github.com/nexu-io/open-design",
+    "path": "skills/redesign-skill",
+    "ref": "main",
+    "sha": "59e4f2ae85de7e7318a5e6bdcf3a34584c4b7582",
+    "tree": "edfd2e6f6c87d15d3b1f298183175bfb0daf8d09"
+  },
+  "reference-design-contract": {
+    "plugin": "bts-design",
+    "repo": "https://github.com/nexu-io/open-design",
+    "path": "skills/reference-design-contract",
+    "ref": "main",
+    "sha": "59e4f2ae85de7e7318a5e6bdcf3a34584c4b7582",
+    "tree": "621a647af5d1ba597ef70564acc1d3189ddab067"
+  },
+  "review-animations": {
+    "plugin": "bts-design",
+    "repo": "https://github.com/nexu-io/open-design",
+    "path": "skills/review-animations",
+    "ref": "main",
+    "sha": "59e4f2ae85de7e7318a5e6bdcf3a34584c4b7582",
+    "tree": "90849eb762813f8f1a8a6dfd7ac9c08bc1e5015b"
+  },
+  "taste-skill": {
+    "plugin": "bts-design",
+    "repo": "https://github.com/leonxlnx/taste-skill",
+    "path": "skills/taste-skill",
+    "ref": "main",
+    "sha": "f6b76575f949707b4e3c37cd86cb44b0b98643e8",
+    "tree": "90f92ba7a3ce514cf85a2809583712dbd14106ea"
+  },
+  "ui-animation": {
+    "plugin": "bts-design",
+    "repo": "https://github.com/nexu-io/open-design",
+    "path": "skills/ui-animation",
+    "ref": "main",
+    "sha": "59e4f2ae85de7e7318a5e6bdcf3a34584c4b7582",
+    "tree": "cd98cad28eb2c4bcc2f6201f8ecae7b6df17c1d0"
+  },
+  "web-design-guidelines": {
+    "plugin": "bts-design",
+    "repo": "https://github.com/nexu-io/open-design",
+    "path": "skills/web-design-guidelines",
+    "ref": "main",
+    "sha": "59e4f2ae85de7e7318a5e6bdcf3a34584c4b7582",
+    "tree": "bbe482b2b2835319cd16f5c54d3a672197eb44d1"
+  }
+}
